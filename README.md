@@ -1,1 +1,3 @@
-# aut2talk.github.io
+# Aut2Talk
+
+{% include privacy-policy.html %}
